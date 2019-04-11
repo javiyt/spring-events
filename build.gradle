@@ -25,7 +25,7 @@ dependencies {
 
 
     testImplementation 'org.junit.jupiter:junit-jupiter:5.4.2'
-    testImplementation 'io.mockk:mockk:1.9.3.kotlin12'
+    testImplementation 'io.mockk:mockk:1.9.3'
     testImplementation 'org.assertj:assertj-core:3.12.2'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testImplementation 'de.flapdoodle.embed:de.flapdoodle.embed.mongo'
